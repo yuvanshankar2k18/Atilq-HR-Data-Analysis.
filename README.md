@@ -69,4 +69,3 @@ The Atliq Presence Insights Dashboard empowers HR teams by offering real-time vi
 - 🏡 Manage WFH distribution fairly
 - 🧠 Make informed, data-driven HR decisions
 
-If you'd like, I can also convert this into a downloadable .docx file or help you create a stylized cover page and embed relevant visuals. Just say the word!
